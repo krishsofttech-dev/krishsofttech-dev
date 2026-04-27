@@ -161,7 +161,7 @@ ICBT Kandy Campus
 ### 🔐 Blockchain Health Record System
 > *Decentralised healthcare on Ethereum*
 
-Built a full production-grade **decentralised health record platform** from scratch. Patient data stored immutably on **IPFS**, access enforced via **Solidity smart contracts** — no central authority, no single point of failure.
+Built a full production-grade **decentralised health record platform** from scratch. Patient data stored immutably on **IPFS**, access enforced via **Solidity smart contracts** no central authority, no single point of failure.
 
 **Key Features:**
 - ✅ Smart contract role-based access control
@@ -398,9 +398,9 @@ contract HealthRecord {
 | App | Description | Stack | Repo |
 |:---:|:---|:---|:---:|
 | 💸 **Track My Cash** | Personal finance tracker with visual dashboard, goal setting & Lottie animations | `Java` `Kotlin` `MVVM` `SQLite` `Lottie` | [![](https://img.shields.io/badge/→_Repo-00FFD4?style=flat-square&logo=github&logoColor=black)](https://github.com/krishsofttech-dev/track-my-cash) |
-| 🖨️ **PrintXpress** | Professional printing service — upload, customise & track orders in real-time | `Java` `Kotlin` `MVVM` `SQLite` | [![](https://img.shields.io/badge/→_Repo-00FFD4?style=flat-square&logo=github&logoColor=black)](https://github.com/krishsofttech-dev/printxpress) |
+| 🖨️ **PrintXpress** | Professional printing service upload, customise & track orders in real-time | `Java` `Kotlin` `MVVM` `SQLite` | [![](https://img.shields.io/badge/→_Repo-00FFD4?style=flat-square&logo=github&logoColor=black)](https://github.com/krishsofttech-dev/printxpress) |
 | 🛍️ **ShopX** | Full e-commerce Android app with cart, auth, product browsing & order management | `Java` `Kotlin` `MVVM` `SQLite` | [![](https://img.shields.io/badge/→_Repo-00FFD4?style=flat-square&logo=github&logoColor=black)](https://github.com/krishsofttech-dev/shopx) |
-| 🐶 **WoofWell** | Pet care marketplace — dual buyer + seller experience with Lottie animations | `Java` `Kotlin` `MVVM` `SQLite` `Lottie` | [![](https://img.shields.io/badge/→_Repo-00FFD4?style=flat-square&logo=github&logoColor=black)](https://github.com/krishsofttech-dev/woofwell) |
+| 🐶 **WoofWell** | Pet care marketplace dual buyer + seller experience with Lottie animations | `Java` `Kotlin` `MVVM` `SQLite` `Lottie` | [![](https://img.shields.io/badge/→_Repo-00FFD4?style=flat-square&logo=github&logoColor=black)](https://github.com/krishsofttech-dev/woofwell) |
 
 </div>
 
@@ -480,8 +480,6 @@ Currently working on:
   ✦  Learning TypeScript + Docker + AWS
   ✦  Building something new with AI APIs
   ✦  Open to internships & full-time opportunities
-
-Nothing to commit, everything is shipping 🚀
 ```
 
 ---
