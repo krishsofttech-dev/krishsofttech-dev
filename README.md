@@ -151,11 +151,10 @@ ICBT Kandy Campus
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=krishsofttech-dev&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=krishsofttech-dev&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Profile Trophy" />
+  </a>
 </div>
 
 ---
