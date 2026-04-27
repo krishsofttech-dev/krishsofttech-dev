@@ -146,19 +146,6 @@ ICBT Kandy Campus
 
 [![Krish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishsofttech-dev&bg_color=0d0d0d&color=00ffd4&line=00ffd4&point=ff6b35&area=true&area_color=00ffd420&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=krishsofttech-dev&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Profile Trophy" />
-  </a>
-</div>
-
----
-
 ## 🚀 Project Showcase
 
 <div align="center">
